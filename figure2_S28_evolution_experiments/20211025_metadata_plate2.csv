@@ -1,0 +1,193 @@
+﻿well,strain,sal,las,iptg,chlor,cole1,rep
+A1,1x diff 2x bxb1,20,0.01,10,+,carb,1
+B1,1x diff 2x bxb1,20,0.01,10,+,carb,2
+C1,1x diff 2x bxb1,20,0.01,10,+,carb,3
+D1,1x diff 2x bxb1,20,0.01,10,+,carb,4
+E1,1x diff 2x bxb1,20,0.01,10,+,carb,5
+F1,1x diff 2x bxb1,20,0.01,10,+,carb,6
+G1,1x diff 2x bxb1,20,0.01,10,+,carb,7
+H1,1x diff 2x bxb1,20,0.01,10,+,carb,8
+A3,1x diff 2x bxb1,20,0.01,50,+,carb,1
+B3,1x diff 2x bxb1,20,0.01,50,+,carb,2
+C3,1x diff 2x bxb1,20,0.01,50,+,carb,3
+D3,1x diff 2x bxb1,20,0.01,50,+,carb,4
+E3,1x diff 2x bxb1,20,0.01,50,+,carb,5
+F3,1x diff 2x bxb1,20,0.01,50,+,carb,6
+G3,1x diff 2x bxb1,20,0.01,50,+,carb,7
+H3,1x diff 2x bxb1,20,0.01,50,+,carb,8
+A5,1x diff 2x bxb1,30,0.01,10,+,carb,1
+B5,1x diff 2x bxb1,30,0.01,10,+,carb,2
+C5,1x diff 2x bxb1,30,0.01,10,+,carb,3
+D5,1x diff 2x bxb1,30,0.01,10,+,carb,4
+E5,1x diff 2x bxb1,30,0.01,10,+,carb,5
+F5,1x diff 2x bxb1,30,0.01,10,+,carb,6
+G5,1x diff 2x bxb1,30,0.01,10,+,carb,7
+H5,1x diff 2x bxb1,30,0.01,10,+,carb,8
+A7,1x diff 2x bxb1,30,0.01,50,+,carb,1
+B7,1x diff 2x bxb1,30,0.01,50,+,carb,2
+C7,1x diff 2x bxb1,30,0.01,50,+,carb,3
+D7,1x diff 2x bxb1,30,0.01,50,+,carb,4
+E7,1x diff 2x bxb1,30,0.01,50,+,carb,5
+F7,1x diff 2x bxb1,30,0.01,50,+,carb,6
+G7,1x diff 2x bxb1,30,0.01,50,+,carb,7
+H7,1x diff 2x bxb1,30,0.01,50,+,carb,8
+A9,split pir 2x bxb1,20,0.01,10,+,carb,1
+B9,split pir 2x bxb1,20,0.01,10,+,carb,2
+C9,split pir 2x bxb1,20,0.01,10,+,carb,3
+D9,split pir 2x bxb1,20,0.01,10,+,carb,4
+E9,split pir 2x bxb1,20,0.01,10,+,carb,5
+F9,split pir 2x bxb1,20,0.01,10,+,carb,6
+G9,split pir 2x bxb1,20,0.01,10,+,carb,7
+H9,split pir 2x bxb1,20,0.01,10,+,carb,8
+A11,split pir 2x bxb1,20,0.01,50,+,carb,1
+B11,split pir 2x bxb1,20,0.01,50,+,carb,2
+C11,split pir 2x bxb1,20,0.01,50,+,carb,3
+D11,split pir 2x bxb1,20,0.01,50,+,carb,4
+E11,split pir 2x bxb1,20,0.01,50,+,carb,5
+F11,split pir 2x bxb1,20,0.01,50,+,carb,6
+G11,split pir 2x bxb1,20,0.01,50,+,carb,7
+H11,split pir 2x bxb1,20,0.01,50,+,carb,8
+A13,split pir 2x bxb1,30,0.01,10,+,carb,1
+B13,split pir 2x bxb1,30,0.01,10,+,carb,2
+C13,split pir 2x bxb1,30,0.01,10,+,carb,3
+D13,split pir 2x bxb1,30,0.01,10,+,carb,4
+E13,split pir 2x bxb1,30,0.01,10,+,carb,5
+F13,split pir 2x bxb1,30,0.01,10,+,carb,6
+G13,split pir 2x bxb1,30,0.01,10,+,carb,7
+H13,split pir 2x bxb1,30,0.01,10,+,carb,8
+A15,split pir 2x bxb1,30,0.01,50,+,carb,1
+B15,split pir 2x bxb1,30,0.01,50,+,carb,2
+C15,split pir 2x bxb1,30,0.01,50,+,carb,3
+D15,split pir 2x bxb1,30,0.01,50,+,carb,4
+E15,split pir 2x bxb1,30,0.01,50,+,carb,5
+F15,split pir 2x bxb1,30,0.01,50,+,carb,6
+G15,split pir 2x bxb1,30,0.01,50,+,carb,7
+H15,split pir 2x bxb1,30,0.01,50,+,carb,8
+A17,1x diff 2x bxb1,20,0.01,10,+,kan,1
+B17,1x diff 2x bxb1,20,0.01,10,+,kan,2
+C17,1x diff 2x bxb1,20,0.01,10,+,kan,3
+D17,1x diff 2x bxb1,20,0.01,10,+,kan,4
+E17,1x diff 2x bxb1,20,0.01,10,+,kan,5
+F17,1x diff 2x bxb1,20,0.01,10,+,kan,6
+G17,1x diff 2x bxb1,20,0.01,10,+,kan,7
+H17,1x diff 2x bxb1,20,0.01,10,+,kan,8
+A19,1x diff 2x bxb1,20,0.01,50,+,kan,1
+B19,1x diff 2x bxb1,20,0.01,50,+,kan,2
+C19,1x diff 2x bxb1,20,0.01,50,+,kan,3
+D19,1x diff 2x bxb1,20,0.01,50,+,kan,4
+E19,1x diff 2x bxb1,20,0.01,50,+,kan,5
+F19,1x diff 2x bxb1,20,0.01,50,+,kan,6
+G19,1x diff 2x bxb1,20,0.01,50,+,kan,7
+H19,1x diff 2x bxb1,20,0.01,50,+,kan,8
+A21,1x diff 2x bxb1,30,0.01,10,+,kan,1
+B21,1x diff 2x bxb1,30,0.01,10,+,kan,2
+C21,1x diff 2x bxb1,30,0.01,10,+,kan,3
+D21,1x diff 2x bxb1,30,0.01,10,+,kan,4
+E21,1x diff 2x bxb1,30,0.01,10,+,kan,5
+F21,1x diff 2x bxb1,30,0.01,10,+,kan,6
+G21,1x diff 2x bxb1,30,0.01,10,+,kan,7
+H21,1x diff 2x bxb1,30,0.01,10,+,kan,8
+A23,1x diff 2x bxb1,30,0.01,50,+,kan,1
+B23,1x diff 2x bxb1,30,0.01,50,+,kan,2
+C23,1x diff 2x bxb1,30,0.01,50,+,kan,3
+D23,1x diff 2x bxb1,30,0.01,50,+,kan,4
+E23,1x diff 2x bxb1,30,0.01,50,+,kan,5
+F23,1x diff 2x bxb1,30,0.01,50,+,kan,6
+G23,1x diff 2x bxb1,30,0.01,50,+,kan,7
+H23,1x diff 2x bxb1,30,0.01,50,+,kan,8
+I1,naive 1x,0,0,10,-,carb,1
+J1,naive 1x,0,0,10,-,carb,2
+K1,naive 1x,0,0,10,-,carb,3
+L1,naive 1x,0,0,10,-,carb,4
+M1,naive 1x,0,0,10,-,carb,5
+N1,naive 1x,0,0,10,-,carb,6
+O1,naive 1x,0,0,10,-,carb,7
+P1,naive 1x,0,0,10,-,carb,8
+I3,naive 1x,0,0,50,-,carb,1
+J3,naive 1x,0,0,50,-,carb,2
+K3,naive 1x,0,0,50,-,carb,3
+L3,naive 1x,0,0,50,-,carb,4
+M3,naive 1x,0,0,50,-,carb,5
+N3,naive 1x,0,0,50,-,carb,6
+O3,naive 1x,0,0,50,-,carb,7
+P3,naive 1x,0,0,50,-,carb,8
+I5,naive 2x,0,0,10,-,carb,1
+J5,naive 2x,0,0,10,-,carb,2
+K5,naive 2x,0,0,10,-,carb,3
+L5,naive 2x,0,0,10,-,carb,4
+M5,naive 2x,0,0,10,-,carb,5
+N5,naive 2x,0,0,10,-,carb,6
+O5,naive 2x,0,0,10,-,carb,7
+P5,naive 2x,0,0,10,-,carb,8
+I7,naive 2x,0,0,50,-,carb,1
+J7,naive 2x,0,0,50,-,carb,2
+K7,naive 2x,0,0,50,-,carb,3
+L7,naive 2x,0,0,50,-,carb,4
+M7,naive 2x,0,0,50,-,carb,5
+N7,naive 2x,0,0,50,-,carb,6
+O7,naive 2x,0,0,50,-,carb,7
+P7,naive 2x,0,0,50,-,carb,8
+I9,naive 1x,0,0,10,-,kan,1
+J9,naive 1x,0,0,10,-,kan,2
+K9,naive 1x,0,0,10,-,kan,3
+L9,naive 1x,0,0,10,-,kan,4
+M9,naive 1x,0,0,10,-,kan,5
+N9,naive 1x,0,0,10,-,kan,6
+O9,naive 1x,0,0,10,-,kan,7
+P9,naive 1x,0,0,10,-,kan,8
+I11,naive 1x,0,0,50,-,kan,1
+J11,naive 1x,0,0,50,-,kan,2
+K11,naive 1x,0,0,50,-,kan,3
+L11,naive 1x,0,0,50,-,kan,4
+M11,naive 1x,0,0,50,-,kan,5
+N11,naive 1x,0,0,50,-,kan,6
+O11,naive 1x,0,0,50,-,kan,7
+P11,naive 1x,0,0,50,-,kan,8
+I13,naive 2x,0,0,10,-,kan,1
+J13,naive 2x,0,0,10,-,kan,2
+K13,naive 2x,0,0,10,-,kan,3
+L13,naive 2x,0,0,10,-,kan,4
+M13,naive 2x,0,0,10,-,kan,5
+N13,naive 2x,0,0,10,-,kan,6
+O13,naive 2x,0,0,10,-,kan,7
+P13,naive 2x,0,0,10,-,kan,8
+I15,naive 2x,0,0,50,-,kan,1
+J15,naive 2x,0,0,50,-,kan,2
+K15,naive 2x,0,0,50,-,kan,3
+L15,naive 2x,0,0,50,-,kan,4
+M15,naive 2x,0,0,50,-,kan,5
+N15,naive 2x,0,0,50,-,kan,6
+O15,naive 2x,0,0,50,-,kan,7
+P15,naive 2x,0,0,50,-,kan,8
+I17,split pir 2x bxb1,20,0.01,10,+,kan,1
+J17,split pir 2x bxb1,20,0.01,10,+,kan,2
+K17,split pir 2x bxb1,20,0.01,10,+,kan,3
+L17,split pir 2x bxb1,20,0.01,10,+,kan,4
+M17,split pir 2x bxb1,20,0.01,10,+,kan,5
+N17,split pir 2x bxb1,20,0.01,10,+,kan,6
+O17,split pir 2x bxb1,20,0.01,10,+,kan,7
+P17,split pir 2x bxb1,20,0.01,10,+,kan,8
+I19,split pir 2x bxb1,20,0.01,50,+,kan,1
+J19,split pir 2x bxb1,20,0.01,50,+,kan,2
+K19,split pir 2x bxb1,20,0.01,50,+,kan,3
+L19,split pir 2x bxb1,20,0.01,50,+,kan,4
+M19,split pir 2x bxb1,20,0.01,50,+,kan,5
+N19,split pir 2x bxb1,20,0.01,50,+,kan,6
+O19,split pir 2x bxb1,20,0.01,50,+,kan,7
+P19,split pir 2x bxb1,20,0.01,50,+,kan,8
+I21,split pir 2x bxb1,30,0.01,10,+,kan,1
+J21,split pir 2x bxb1,30,0.01,10,+,kan,2
+K21,split pir 2x bxb1,30,0.01,10,+,kan,3
+L21,split pir 2x bxb1,30,0.01,10,+,kan,4
+M21,split pir 2x bxb1,30,0.01,10,+,kan,5
+N21,split pir 2x bxb1,30,0.01,10,+,kan,6
+O21,split pir 2x bxb1,30,0.01,10,+,kan,7
+P21,split pir 2x bxb1,30,0.01,10,+,kan,8
+I23,split pir 2x bxb1,30,0.01,50,+,kan,1
+J23,split pir 2x bxb1,30,0.01,50,+,kan,2
+K23,split pir 2x bxb1,30,0.01,50,+,kan,3
+L23,split pir 2x bxb1,30,0.01,50,+,kan,4
+M23,split pir 2x bxb1,30,0.01,50,+,kan,5
+N23,split pir 2x bxb1,30,0.01,50,+,kan,6
+O23,split pir 2x bxb1,30,0.01,50,+,kan,7
+P23,split pir 2x bxb1,30,0.01,50,+,kan,8

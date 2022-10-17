@@ -1,0 +1,73 @@
+﻿,strain,cole1,carb,sal,rep
+A1,diff split T7RNAP,pT7 GFP,+,0,1
+A2,diff split T7RNAP,pT7 GFP,+,0,2
+A3,diff split T7RNAP,pT7 GFP,+,0,3
+A4,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,0,1
+A5,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,0,2
+A6,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,0,3
+A7,diff FL T7RNAP 1,pT7 GFP,+,0,1
+A8,diff FL T7RNAP 1,pT7 GFP,+,0,2
+A9,diff FL T7RNAP 1,pT7 GFP,+,0,3
+A10,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,1
+A11,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,2
+A12,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,3
+B1,diff split T7RNAP,pT7 GFP,+,100,1
+B2,diff split T7RNAP,pT7 GFP,+,100,2
+B3,diff split T7RNAP,pT7 GFP,+,100,3
+B4,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,100,1
+B5,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,100,2
+B6,diff split T7RNAP,pT7 GFP/pSal Bxb1,+,100,3
+B7,diff FL T7RNAP 1,pT7 GFP,+,100,1
+B8,diff FL T7RNAP 1,pT7 GFP,+,100,2
+B9,diff FL T7RNAP 1,pT7 GFP,+,100,3
+B10,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,1
+B11,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,2
+B12,diff FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,3
+C1,diff FL T7RNAP 2,pT7 GFP,+,0,1
+C2,diff FL T7RNAP 2,pT7 GFP,+,0,2
+C3,diff FL T7RNAP 2,pT7 GFP,+,0,3
+C4,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,1
+C5,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,2
+C6,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,3
+C7,diff T13m FL T7RNAP 1,pT7 GFP,+,0,1
+C8,diff T13m FL T7RNAP 1,pT7 GFP,+,0,2
+C9,diff T13m FL T7RNAP 1,pT7 GFP,+,0,3
+C10,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,1
+C11,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,2
+C12,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,0,3
+D1,diff FL T7RNAP 2,pT7 GFP,+,100,1
+D2,diff FL T7RNAP 2,pT7 GFP,+,100,2
+D3,diff FL T7RNAP 2,pT7 GFP,+,100,3
+D4,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,1
+D5,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,2
+D6,diff FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,3
+D7,diff T13m FL T7RNAP 1,pT7 GFP,+,100,1
+D8,diff T13m FL T7RNAP 1,pT7 GFP,+,100,2
+D9,diff T13m FL T7RNAP 1,pT7 GFP,+,100,3
+D10,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,1
+D11,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,2
+D12,diff T13m FL T7RNAP 1,pT7 GFP/pSal Bxb1,+,100,3
+E1,diff T13m FL T7RNAP 2,pT7 GFP,+,0,1
+E2,diff T13m FL T7RNAP 2,pT7 GFP,+,0,2
+E3,diff T13m FL T7RNAP 2,pT7 GFP,+,0,3
+E4,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,1
+E5,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,2
+E6,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,0,3
+E7,JS006,pT7 GFP,+,0,1
+E8,JS006,pT7 GFP,+,0,2
+E9,JS006,pT7 GFP,+,0,3
+E10,JS006,pT7 GFP/pSal Bxb1,+,0,1
+E11,JS006,pT7 GFP/pSal Bxb1,+,0,2
+E12,JS006,pT7 GFP/pSal Bxb1,+,0,3
+F1,diff T13m FL T7RNAP 2,pT7 GFP,+,100,1
+F2,diff T13m FL T7RNAP 2,pT7 GFP,+,100,2
+F3,diff T13m FL T7RNAP 2,pT7 GFP,+,100,3
+F4,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,1
+F5,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,2
+F6,diff T13m FL T7RNAP 2,pT7 GFP/pSal Bxb1,+,100,3
+F7,JS006,pT7 GFP,+,100,1
+F8,JS006,pT7 GFP,+,100,2
+F9,JS006,pT7 GFP,+,100,3
+F10,JS006,pT7 GFP/pSal Bxb1,+,100,1
+F11,JS006,pT7 GFP/pSal Bxb1,+,100,2
+F12,JS006,pT7 GFP/pSal Bxb1,+,100,3
