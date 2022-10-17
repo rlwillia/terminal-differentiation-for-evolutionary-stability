@@ -1,0 +1,49 @@
+﻿,strain,kan,carb,spent_media,percent,rep
+A1,naive HCA,-,+,-,0,1
+A2,naive HCA,-,+,-,0,2
+A3,naive HCA,-,+,-,0,3
+A4,naive HCK,+,-,-,0,1
+A5,naive HCK,+,-,-,0,2
+A6,naive HCK,+,-,-,0,3
+B1,naive HCA,+,+,-,0,1
+B2,naive HCA,+,+,-,0,2
+B3,naive HCA,+,+,-,0,3
+B4,naive HCK,+,+,-,0,1
+B5,naive HCK,+,+,-,0,2
+B6,naive HCK,+,+,-,0,3
+C1,naive HCA,+,+,kan,1,1
+C2,naive HCA,+,+,kan,1,2
+C3,naive HCA,+,+,kan,1,3
+C4,naive HCK,+,+,carb,1,1
+C5,naive HCK,+,+,carb,1,2
+C6,naive HCK,+,+,carb,1,3
+D1,naive HCA,+,+,kan,2,1
+D2,naive HCA,+,+,kan,2,2
+D3,naive HCA,+,+,kan,2,3
+D4,naive HCK,+,+,carb,2,1
+D5,naive HCK,+,+,carb,2,2
+D6,naive HCK,+,+,carb,2,3
+E1,naive HCA,+,+,kan,5,1
+E2,naive HCA,+,+,kan,5,2
+E3,naive HCA,+,+,kan,5,3
+E4,naive HCK,+,+,carb,5,1
+E5,naive HCK,+,+,carb,5,2
+E6,naive HCK,+,+,carb,5,3
+F1,naive HCA,+,+,kan,10,1
+F2,naive HCA,+,+,kan,10,2
+F3,naive HCA,+,+,kan,10,3
+F4,naive HCK,+,+,carb,10,1
+F5,naive HCK,+,+,carb,10,2
+F6,naive HCK,+,+,carb,10,3
+G1,naive HCA + JS006 HCK,+,+,-,0,1
+G2,naive HCA + JS006 HCK,+,+,-,0,2
+G3,naive HCA + JS006 HCK,+,+,-,0,3
+G4,naive HCK + JS006 HCA,+,+,-,0,1
+G5,naive HCK + JS006 HCA,+,+,-,0,2
+G6,naive HCK + JS006 HCA,+,+,-,0,3
+H1,JS006 HCK,+,-,-,0,1
+H2,JS006 HCK,+,-,-,0,2
+H3,JS006 HCK,+,-,-,0,3
+H4,JS006 HCA,-,+,-,0,1
+H5,JS006 HCA,-,+,-,0,2
+H6,JS006 HCA,-,+,-,0,3

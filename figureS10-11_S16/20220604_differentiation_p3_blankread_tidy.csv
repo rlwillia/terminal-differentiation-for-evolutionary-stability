@@ -1,0 +1,289 @@
+channel,mode,excitation,emission,num_flashes,gain,time_sec,time_h,well,measurement,strain,chlor,sal,iptg,rep
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A1,0.075300001,diff1X,-,0,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A2,0.075400002,diff1X,-,0,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A3,0.078000002,diff1X,-,0,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A4,0.0744,diff2X,-,0,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A5,0.075599998,diff2X,-,0,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A6,0.075599998,diff2X,-,0,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A7,0.076800004,diff1X,-,0,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A8,0.075099997,diff1X,-,0,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A9,0.074299999,diff1X,-,0,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A10,0.0766,diff2X,-,0,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A11,0.074600004,diff2X,-,0,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,A12,0.075099997,diff2X,-,0,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B1,0.076200001,diff1X,-,10,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B2,0.080499999,diff1X,-,10,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B3,0.075400002,diff1X,-,10,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B4,0.075000003,diff2X,-,10,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B5,0.0748,diff2X,-,10,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B6,0.077600002,diff2X,-,10,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B7,0.074000001,diff1X,-,10,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B8,0.075199999,diff1X,-,10,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B9,0.074500002,diff1X,-,10,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B10,0.075000003,diff2X,-,10,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B11,0.073899999,diff2X,-,10,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,B12,0.073399998,diff2X,-,10,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C1,0.074100003,diff1X,-,20,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C2,0.076099999,diff1X,-,20,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C3,0.074100003,diff1X,-,20,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C4,0.074299999,diff2X,-,20,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C5,0.075199999,diff2X,-,20,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C6,0.073600002,diff2X,-,20,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C7,0.074000001,diff1X,-,20,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C8,0.076499999,diff1X,-,20,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C9,0.074100003,diff1X,-,20,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C10,0.073700003,diff2X,-,20,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C11,0.0748,diff2X,-,20,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,C12,0.074199997,diff2X,-,20,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D1,0.073899999,diff1X,-,30,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D2,0.073899999,diff1X,-,30,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D3,0.073799998,diff1X,-,30,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D4,0.073100001,diff2X,-,30,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D5,0.073899999,diff2X,-,30,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D6,0.077600002,diff2X,-,30,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D7,0.074199997,diff1X,-,30,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D8,0.074699998,diff1X,-,30,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D9,0.072899997,diff1X,-,30,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D10,0.073799998,diff2X,-,30,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D11,0.073600002,diff2X,-,30,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,D12,0.0744,diff2X,-,30,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E1,0.072999999,diff1X,+,0,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E2,0.076700002,diff1X,+,0,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E3,0.074000001,diff1X,+,0,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E4,0.073100001,diff2X,+,0,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E5,0.072700001,diff2X,+,0,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E6,0.075900003,diff2X,+,0,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E7,0.0722,diff1X,+,0,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E8,0.072700001,diff1X,+,0,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E9,0.072400004,diff1X,+,0,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E10,0.072499998,diff2X,+,0,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E11,0.072499998,diff2X,+,0,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,E12,0.072300002,diff2X,+,0,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F1,0.072099999,diff1X,+,10,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F2,0.072400004,diff1X,+,10,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F3,0.071900003,diff1X,+,10,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F4,0.073200002,diff2X,+,10,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F5,0.073100001,diff2X,+,10,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F6,0.076300003,diff2X,+,10,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F7,0.072400004,diff1X,+,10,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F8,0.0766,diff1X,+,10,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F9,0.072499998,diff1X,+,10,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F10,0.072899997,diff2X,+,10,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F11,0.073299997,diff2X,+,10,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,F12,0.072099999,diff2X,+,10,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G1,0.072099999,diff1X,+,20,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G2,0.073299997,diff1X,+,20,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G3,0.071699999,diff1X,+,20,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G4,0.0726,diff2X,+,20,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G5,0.072300002,diff2X,+,20,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G6,0.073200002,diff2X,+,20,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G7,0.072300002,diff1X,+,20,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G8,0.074299999,diff1X,+,20,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G9,0.072300002,diff1X,+,20,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G10,0.072400004,diff2X,+,20,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G11,0.072099999,diff2X,+,20,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,G12,0.072300002,diff2X,+,20,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H1,0.072099999,diff1X,+,30,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H2,0.0801,diff1X,+,30,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H3,0.072499998,diff1X,+,30,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H4,0.073700003,diff2X,+,30,10,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H5,0.0735,diff2X,+,30,10,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H6,0.072800003,diff2X,+,30,10,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H7,0.071900003,diff1X,+,30,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H8,0.0722,diff1X,+,30,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H9,0.071999997,diff1X,+,30,50,3
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H10,0.073200002,diff2X,+,30,50,1
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H11,0.071500003,diff2X,+,30,50,2
+OD700,Absorbance,700,-1,20,-1,0.0,0.0,H12,0.072099999,diff2X,+,30,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A1,254.0,diff1X,-,0,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A2,330.0,diff1X,-,0,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A3,245.0,diff1X,-,0,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A4,269.0,diff2X,-,0,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A5,262.0,diff2X,-,0,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A6,251.0,diff2X,-,0,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A7,231.0,diff1X,-,0,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A8,265.0,diff1X,-,0,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A9,242.0,diff1X,-,0,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A10,252.0,diff2X,-,0,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A11,241.0,diff2X,-,0,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,A12,261.0,diff2X,-,0,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B1,301.0,diff1X,-,10,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B2,267.0,diff1X,-,10,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B3,293.0,diff1X,-,10,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B4,240.0,diff2X,-,10,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B5,253.0,diff2X,-,10,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B6,237.0,diff2X,-,10,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B7,261.0,diff1X,-,10,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B8,245.0,diff1X,-,10,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B9,254.0,diff1X,-,10,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B10,237.0,diff2X,-,10,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B11,255.0,diff2X,-,10,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,B12,261.0,diff2X,-,10,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C1,273.0,diff1X,-,20,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C2,270.0,diff1X,-,20,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C3,272.0,diff1X,-,20,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C4,262.0,diff2X,-,20,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C5,217.0,diff2X,-,20,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C6,247.0,diff2X,-,20,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C7,249.0,diff1X,-,20,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C8,246.0,diff1X,-,20,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C9,230.0,diff1X,-,20,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C10,230.0,diff2X,-,20,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C11,240.0,diff2X,-,20,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,C12,260.0,diff2X,-,20,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D1,276.0,diff1X,-,30,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D2,260.0,diff1X,-,30,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D3,243.0,diff1X,-,30,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D4,233.0,diff2X,-,30,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D5,227.0,diff2X,-,30,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D6,237.0,diff2X,-,30,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D7,229.0,diff1X,-,30,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D8,221.0,diff1X,-,30,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D9,220.0,diff1X,-,30,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D10,233.0,diff2X,-,30,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D11,231.0,diff2X,-,30,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,D12,230.0,diff2X,-,30,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E1,252.0,diff1X,+,0,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E2,249.0,diff1X,+,0,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E3,239.0,diff1X,+,0,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E4,236.0,diff2X,+,0,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E5,234.0,diff2X,+,0,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E6,225.0,diff2X,+,0,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E7,217.0,diff1X,+,0,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E8,212.0,diff1X,+,0,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E9,226.0,diff1X,+,0,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E10,237.0,diff2X,+,0,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E11,240.0,diff2X,+,0,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,E12,232.0,diff2X,+,0,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F1,235.0,diff1X,+,10,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F2,242.0,diff1X,+,10,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F3,233.0,diff1X,+,10,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F4,228.0,diff2X,+,10,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F5,213.0,diff2X,+,10,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F6,233.0,diff2X,+,10,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F7,228.0,diff1X,+,10,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F8,200.0,diff1X,+,10,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F9,236.0,diff1X,+,10,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F10,233.0,diff2X,+,10,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F11,213.0,diff2X,+,10,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,F12,228.0,diff2X,+,10,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G1,217.0,diff1X,+,20,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G2,251.0,diff1X,+,20,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G3,243.0,diff1X,+,20,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G4,249.0,diff2X,+,20,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G5,220.0,diff2X,+,20,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G6,236.0,diff2X,+,20,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G7,239.0,diff1X,+,20,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G8,220.0,diff1X,+,20,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G9,234.0,diff1X,+,20,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G10,222.0,diff2X,+,20,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G11,244.0,diff2X,+,20,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,G12,208.0,diff2X,+,20,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H1,217.0,diff1X,+,30,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H2,236.0,diff1X,+,30,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H3,260.0,diff1X,+,30,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H4,208.0,diff2X,+,30,10,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H5,225.0,diff2X,+,30,10,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H6,244.0,diff2X,+,30,10,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H7,219.0,diff1X,+,30,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H8,212.0,diff1X,+,30,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H9,225.0,diff1X,+,30,50,3
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H10,217.0,diff2X,+,30,50,1
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H11,227.0,diff2X,+,30,50,2
+mScarlet,Fluorescence Bottom Reading,565,595,20,140,0.0,0.0,H12,222.0,diff2X,+,30,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A1,112.0,diff1X,-,0,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A2,116.0,diff1X,-,0,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A3,117.0,diff1X,-,0,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A4,115.0,diff2X,-,0,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A5,117.0,diff2X,-,0,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A6,119.0,diff2X,-,0,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A7,120.0,diff1X,-,0,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A8,121.0,diff1X,-,0,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A9,121.0,diff1X,-,0,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A10,124.0,diff2X,-,0,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A11,121.0,diff2X,-,0,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,A12,123.0,diff2X,-,0,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B1,121.0,diff1X,-,10,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B2,120.0,diff1X,-,10,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B3,125.0,diff1X,-,10,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B4,123.0,diff2X,-,10,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B5,118.0,diff2X,-,10,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B6,119.0,diff2X,-,10,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B7,124.0,diff1X,-,10,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B8,124.0,diff1X,-,10,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B9,121.0,diff1X,-,10,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B10,124.0,diff2X,-,10,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B11,126.0,diff2X,-,10,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,B12,126.0,diff2X,-,10,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C1,125.0,diff1X,-,20,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C2,132.0,diff1X,-,20,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C3,130.0,diff1X,-,20,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C4,138.0,diff2X,-,20,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C5,123.0,diff2X,-,20,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C6,122.0,diff2X,-,20,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C7,121.0,diff1X,-,20,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C8,124.0,diff1X,-,20,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C9,126.0,diff1X,-,20,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C10,131.0,diff2X,-,20,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C11,131.0,diff2X,-,20,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,C12,138.0,diff2X,-,20,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D1,152.0,diff1X,-,30,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D2,161.0,diff1X,-,30,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D3,146.0,diff1X,-,30,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D4,128.0,diff2X,-,30,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D5,122.0,diff2X,-,30,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D6,118.0,diff2X,-,30,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D7,129.0,diff1X,-,30,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D8,124.0,diff1X,-,30,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D9,128.0,diff1X,-,30,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D10,133.0,diff2X,-,30,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D11,150.0,diff2X,-,30,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,D12,150.0,diff2X,-,30,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E1,121.0,diff1X,+,0,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E2,117.0,diff1X,+,0,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E3,122.0,diff1X,+,0,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E4,123.0,diff2X,+,0,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E5,122.0,diff2X,+,0,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E6,120.0,diff2X,+,0,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E7,117.0,diff1X,+,0,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E8,118.0,diff1X,+,0,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E9,118.0,diff1X,+,0,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E10,119.0,diff2X,+,0,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E11,119.0,diff2X,+,0,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,E12,120.0,diff2X,+,0,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F1,121.0,diff1X,+,10,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F2,126.0,diff1X,+,10,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F3,130.0,diff1X,+,10,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F4,124.0,diff2X,+,10,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F5,120.0,diff2X,+,10,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F6,118.0,diff2X,+,10,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F7,119.0,diff1X,+,10,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F8,119.0,diff1X,+,10,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F9,121.0,diff1X,+,10,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F10,116.0,diff2X,+,10,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F11,123.0,diff2X,+,10,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,F12,123.0,diff2X,+,10,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G1,128.0,diff1X,+,20,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G2,144.0,diff1X,+,20,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G3,128.0,diff1X,+,20,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G4,132.0,diff2X,+,20,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G5,132.0,diff2X,+,20,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G6,129.0,diff2X,+,20,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G7,129.0,diff1X,+,20,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G8,125.0,diff1X,+,20,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G9,122.0,diff1X,+,20,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G10,123.0,diff2X,+,20,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G11,129.0,diff2X,+,20,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,G12,126.0,diff2X,+,20,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H1,149.0,diff1X,+,30,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H2,136.0,diff1X,+,30,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H3,137.0,diff1X,+,30,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H4,145.0,diff2X,+,30,10,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H5,141.0,diff2X,+,30,10,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H6,137.0,diff2X,+,30,10,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H7,143.0,diff1X,+,30,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H8,137.0,diff1X,+,30,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H9,155.0,diff1X,+,30,50,3
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H10,149.0,diff2X,+,30,50,1
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H11,146.0,diff2X,+,30,50,2
+GFP_1,Fluorescence Bottom Reading,485,515,20,80,0.0,0.0,H12,131.0,diff2X,+,30,50,3

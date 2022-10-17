@@ -1,0 +1,85 @@
+﻿,strain,kan,chlor,carb,las,sal,rep
+A1,marionette + p15a split pir 1,+,+,-,0.03,0,1
+A2,marionette + p15a split pir 1,+,+,-,0.03,0,2
+A3,marionette + p15a split pir 1,+,+,-,0.03,0,3
+A4,marionette + p15a split pir 1,+,+,-,0.1,0,1
+A5,marionette + p15a split pir 1,+,+,-,0.1,0,2
+A6,marionette + p15a split pir 1,+,+,-,0.1,0,3
+A7,marionette + p15a split pir 1,+,+,-,0.03,100,1
+A8,marionette + p15a split pir 1,+,+,-,0.03,100,2
+A9,marionette + p15a split pir 1,+,+,-,0.03,100,3
+A10,marionette + p15a split pir 1,+,+,-,0.1,100,1
+A11,marionette + p15a split pir 1,+,+,-,0.1,100,2
+A12,marionette + p15a split pir 1,+,+,-,0.1,100,3
+B1,marionette + p15a split pir 2,+,+,-,0.03,0,1
+B2,marionette + p15a split pir 2,+,+,-,0.03,0,2
+B3,marionette + p15a split pir 2,+,+,-,0.03,0,3
+B4,marionette + p15a split pir 2,+,+,-,0.1,0,1
+B5,marionette + p15a split pir 2,+,+,-,0.1,0,2
+B6,marionette + p15a split pir 2,+,+,-,0.1,0,3
+B7,marionette + p15a split pir 2,+,+,-,0.03,100,1
+B8,marionette + p15a split pir 2,+,+,-,0.03,100,2
+B9,marionette + p15a split pir 2,+,+,-,0.03,100,3
+B10,marionette + p15a split pir 2,+,+,-,0.1,100,1
+B11,marionette + p15a split pir 2,+,+,-,0.1,100,2
+B12,marionette + p15a split pir 2,+,+,-,0.1,100,3
+C1,diff + p15a split pir 1,+,+,+,0.03,0,1
+C2,diff + p15a split pir 1,+,+,+,0.03,0,2
+C3,diff + p15a split pir 1,+,+,+,0.03,0,3
+C4,diff + p15a split pir 1,+,+,+,0.1,0,1
+C5,diff + p15a split pir 1,+,+,+,0.1,0,2
+C6,diff + p15a split pir 1,+,+,+,0.1,0,3
+C7,diff + p15a split pir 1,+,+,+,0.03,100,1
+C8,diff + p15a split pir 1,+,+,+,0.03,100,2
+C9,diff + p15a split pir 1,+,+,+,0.03,100,3
+C10,diff + p15a split pir 1,+,+,+,0.1,100,1
+C11,diff + p15a split pir 1,+,+,+,0.1,100,2
+C12,diff + p15a split pir 1,+,+,+,0.1,100,3
+D1,diff + p15a split pir 2,+,+,+,0.03,0,1
+D2,diff + p15a split pir 2,+,+,+,0.03,0,2
+D3,diff + p15a split pir 2,+,+,+,0.03,0,3
+D4,diff + p15a split pir 2,+,+,+,0.1,0,1
+D5,diff + p15a split pir 2,+,+,+,0.1,0,2
+D6,diff + p15a split pir 2,+,+,+,0.1,0,3
+D7,diff + p15a split pir 2,+,+,+,0.03,100,1
+D8,diff + p15a split pir 2,+,+,+,0.03,100,2
+D9,diff + p15a split pir 2,+,+,+,0.03,100,3
+D10,diff + p15a split pir 2,+,+,+,0.1,100,1
+D11,diff + p15a split pir 2,+,+,+,0.1,100,2
+D12,diff + p15a split pir 2,+,+,+,0.1,100,3
+E1,pir excision,-,+,+,0.03,0,1
+E2,pir excision,-,+,+,0.03,0,2
+E3,pir excision,-,+,+,0.03,0,3
+E4,pir excision,-,+,+,0.1,0,1
+E5,pir excision,-,+,+,0.1,0,2
+E6,pir excision,-,+,+,0.1,0,3
+E7,pir excision,-,+,+,0.03,100,1
+E8,pir excision,-,+,+,0.03,100,2
+E9,pir excision,-,+,+,0.03,100,3
+E10,pir excision,-,+,+,0.1,100,1
+E11,pir excision,-,+,+,0.1,100,2
+E12,pir excision,-,+,+,0.1,100,3
+F1,pirR excision,-,+,+,0.03,0,1
+F2,pirR excision,-,+,+,0.03,0,2
+F3,pirR excision,-,+,+,0.03,0,3
+F4,pirR excision,-,+,+,0.1,0,1
+F5,pirR excision,-,+,+,0.1,0,2
+F6,pirR excision,-,+,+,0.1,0,3
+F7,pirR excision,-,+,+,0.03,100,1
+F8,pirR excision,-,+,+,0.03,100,2
+F9,pirR excision,-,+,+,0.03,100,3
+F10,pirR excision,-,+,+,0.1,100,1
+F11,pirR excision,-,+,+,0.1,100,2
+F12,pirR excision,-,+,+,0.1,100,3
+G1,pirL excision,-,+,+,0.03,0,1
+G2,pirL excision,-,+,+,0.03,0,2
+G3,pirL excision,-,+,+,0.03,0,3
+G4,pirL excision,-,+,+,0.1,0,1
+G5,pirL excision,-,+,+,0.1,0,2
+G6,pirL excision,-,+,+,0.1,0,3
+G7,pirL excision,-,+,+,0.03,100,1
+G8,pirL excision,-,+,+,0.03,100,2
+G9,pirL excision,-,+,+,0.03,100,3
+G10,pirL excision,-,+,+,0.1,100,1
+G11,pirL excision,-,+,+,0.1,100,2
+G12,pirL excision,-,+,+,0.1,100,3
